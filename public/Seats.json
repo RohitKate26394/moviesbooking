@@ -1,0 +1,144 @@
+[
+    {
+      "showNumber": 1,
+      "auditorium": "Audi 1",
+      "seats": {
+        "Platinum": [
+          { "seatNumber": "A1", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A2", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A3", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A4", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A5", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A6", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A7", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A8", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A9", "booked": "Y" ,"display":"Y"}
+        ],
+        "Gold": [
+          { "seatNumber": "B1", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "B2", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "B3", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "B4", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "B5", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "B6", "booked": "N" ,"display":"Y"}
+        ],
+        "Silver": [
+          { "seatNumber": "C1", "booked": "Y" ,"display":"N"},
+          { "seatNumber": "C2", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C3", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "C4", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C5", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "C6", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C7", "booked": "N" ,"display":"Y"}
+        ]
+      },
+      "seatPrices":[
+        { "packageName": "Platinum", "packagePrice": 320 },
+        { "packageName": "Gold", "packagePrice": 280 },
+        { "packageName": "Silver", "packagePrice": 240 }
+        ],
+
+        "showTimes":[
+          { "date": "19","month":"MAY", "day":"FRY", "Time": [{ "time1`": "9.30AM"}, { "time2": "12.30AM"}, { "time3": "3.30AM"},{ "time4": "6.30AM"}] },
+          { "date": "20","month":"MAY", "day":"FRY","Time": [ { "time2": "12.30AM"}, { "time3": "6.30PM"},{ "time4": "9.30PM"}] },
+          { "date": "21","month":"MAY", "day":"FRY","Time": [ { "time3": "9.30AM"},{ "time4": "9.30PM"}] },
+          { "date": "22", "month":"MAY", "day":"FRY", "Time": [{ "time4": "9.30PM"}] }
+          ]
+    },
+    {
+      "showNumber": 2,
+      "auditorium": "Audi 2",
+      "seats": {
+        "Platinum": [
+          { "seatNumber": "A1", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A2", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A3", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A4", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A5", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "A6", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "A7", "booked": "Y" ,"display":"Y"}
+        ],
+        "Gold": [
+          { "seatNumber": "B1", "booked": "Y" ,"display":"N"},
+          { "seatNumber": "B2", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "B3", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "B4", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "B5", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "B6", "booked": "N" ,"display":"Y"}
+        ],
+        "Silver": [
+          { "seatNumber": "C1", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C2", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C3", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "C4", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C5", "booked": "N" ,"display":"Y"},
+          { "seatNumber": "C6", "booked": "Y" ,"display":"Y"},
+          { "seatNumber": "C7", "booked": "N" ,"display":"Y"}
+        ]
+      },
+      "seatPrices":[
+        { "packageName": "Platinum", "packagePrice": 320 },
+        { "packageName": "Gold", "packagePrice": 280 },
+        { "packageName": "Silver", "packagePrice": 240 }
+        ],
+
+        "showTimes":[
+          { "date": "19","month":"MAY", "day":"FRY", "Time": [{ "time1`": "9.30AM"}, { "time2": "12.30AM"}, { "time3": "3.30AM"},{ "time4": "6.30AM"}] },
+          { "date": "20","month":"MAY", "day":"FRY","Time": [ { "time2": "12.30AM"}, { "time3": "6.30PM"},{ "time4": "9.30PM"}] },
+          { "date": "21","month":"MAY", "day":"FRY","Time": [ { "time3": "9.30AM"},{ "time4": "9.30PM"}] },
+          { "date": "22", "month":"MAY", "day":"FRY", "Time": [{ "time4": "9.30PM"}] }
+          ]
+      },
+      {
+        "showNumber": 3,
+        "auditorium": "Audi 3",
+        "seats": {
+          "Platinum": [
+            { "seatNumber": "A1", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "A2", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "A3", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "A4", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "A5", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "A6", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "A7", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "A8", "booked": "N" ,"display":"N"},
+            { "seatNumber": "A9", "booked": "Y" ,"display":"N"}
+          ],
+          "Gold": [
+            { "seatNumber": "B1", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "B2", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "B3", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "B4", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "B5", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "B6", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "B7", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "B8", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "B9", "booked": "N" ,"display":"N"}
+          ],
+          "Silver": [
+            { "seatNumber": "C1", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "C2", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "C3", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "C4", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "C5", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "C6", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "C7", "booked": "N" ,"display":"Y"},
+            { "seatNumber": "C8", "booked": "Y" ,"display":"Y"},
+            { "seatNumber": "C9", "booked": "NY" ,"display":"Y"}
+          ]
+        },
+        "seatPrices":[
+          { "packageName": "Platinum", "packagePrice": 320 },
+          { "packageName": "Gold", "packagePrice": 280 },
+          { "packageName": "Silver", "packagePrice": 240 }
+          ],
+  
+          "showTimes":[
+            { "date": "19","month":"MAY", "day":"FRY", "Time": [{ "time1`": "9.30AM"}, { "time2": "12.30AM"}, { "time3": "3.30AM"},{ "time4": "6.30AM"}] },
+            { "date": "20","month":"MAY", "day":"FRY","Time": [ { "time2": "12.30AM"}, { "time3": "6.30PM"},{ "time4": "9.30PM"}] },
+            { "date": "21","month":"MAY", "day":"FRY","Time": [ { "time3": "9.30AM"},{ "time4": "9.30PM"}] },
+            { "date": "22", "month":"MAY", "day":"FRY", "Time": [{ "time4": "9.30PM"}] }
+            ]
+      }
+  ]
+  
